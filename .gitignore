@@ -35,3 +35,6 @@ credentials.json
 build/
 dist/
 *.egg-info/
+
+# === всякие таблицы и подсказки ===
+src/sin_cos.txt
